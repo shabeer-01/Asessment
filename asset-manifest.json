@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Asessment/static/css/main.a1377be2.css",
+    "main.js": "/Asessment/static/js/main.2069fd69.js",
+    "static/media/brochure_img.png": "/Asessment/static/media/brochure_img.98bb15c8058814380039.png",
+    "static/media/reception_img.jpg": "/Asessment/static/media/reception_img.017001c6a57e15b3bdde.jpg",
+    "static/media/s3.jpg": "/Asessment/static/media/s3.10023acedcc085faa06d.jpg",
+    "static/media/sec3.png": "/Asessment/static/media/sec3.e309df5efaf6fa3eebd1.png",
+    "static/media/s1.jpg": "/Asessment/static/media/s1.88cb36190d88ca4a08ea.jpg",
+    "static/media/Ellipse_1.png": "/Asessment/static/media/Ellipse_1.9ce0ae6d17382cf99ffc.png",
+    "static/media/s2.jpg": "/Asessment/static/media/s2.1431d30bff15827a502e.jpg",
+    "static/media/footer_img.png": "/Asessment/static/media/footer_img.a0241fd1df9432bbd1d0.png",
+    "static/media/s5.jpg": "/Asessment/static/media/s5.573be4347bf5de935013.jpg",
+    "static/media/card4.jpg": "/Asessment/static/media/card4.7aeac9932732c0c9a3b1.jpg",
+    "static/media/s4.jpg": "/Asessment/static/media/s4.71f8f4ebc7e2b767ec32.jpg",
+    "static/media/card2.png": "/Asessment/static/media/card2.4af7e74cd87bf2454585.png",
+    "static/media/card1.jpg": "/Asessment/static/media/card1.eb8dcde6f51cca0df84a.jpg",
+    "static/media/white_logo.svg": "/Asessment/static/media/white_logo.30dc36f2c438e68bf51798a915457285.svg",
+    "static/media/Main_logo.svg": "/Asessment/static/media/Main_logo.ca764c997f58b1b9682976c3c08b363a.svg",
+    "static/media/c1.png": "/Asessment/static/media/c1.40410429b3a32319c6fc.png",
+    "static/media/c2.png": "/Asessment/static/media/c2.e174132d4ba56215570f.png",
+    "static/media/card3.png": "/Asessment/static/media/card3.9f86c06c39e4c5d24310.png",
+    "static/media/c3.png": "/Asessment/static/media/c3.e777a35903c28a6c482b.png",
+    "index.html": "/Asessment/index.html",
+    "static/media/Arrow_right.svg": "/Asessment/static/media/Arrow_right.42f09fb7638ca5ce11163a1faafd8181.svg",
+    "static/media/Arrow_right_big.svg": "/Asessment/static/media/Arrow_right_big.5b258e2493c5fcc8a83c856188cf680a.svg",
+    "static/media/Arrow_left_big.svg": "/Asessment/static/media/Arrow_left_big.0a4840ded66d08157835c73497379897.svg",
+    "static/media/Arrow_left.svg": "/Asessment/static/media/Arrow_left.720c1e4acabb6afe7c7eb5784a9fcc1a.svg",
+    "main.a1377be2.css.map": "/Asessment/static/css/main.a1377be2.css.map",
+    "main.2069fd69.js.map": "/Asessment/static/js/main.2069fd69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1377be2.css",
+    "static/js/main.2069fd69.js"
+  ]
+}
